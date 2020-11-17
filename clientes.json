@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "nome": "MaraLia",
+        "endereco": "rua_dom_pedro",
+        "cep": 96170000,
+        "data_de_nascimento": 10111975,
+        "telefone": 53998877665
+    },
+    {
+        "id": 2,
+        "nome": "MarlonAndre",
+        "endereco": "rua_das_dunas",
+        "cep": 98348555,
+        "data_de_nascimento": 15111996,
+        "telefone": 53987654321
+    },
+    {
+        "id": 3,
+        "nome": "RichardJose",
+        "endereco": "harmonia",
+        "cep": 96170000,
+        "data_de_nascimento": 24112005,
+        "telefone": 53978653420
+    },
+    {
+        "id": 4,
+        "nome": "MuriloAgusto",
+        "endereco": "rua_sao_jose",
+        "cep": 96170000,
+        "data_de_nascimento": 14112007,
+        "telefone": 53968574231
+    },
+    {
+        "id": 5,
+        "nome": "MiguelAngelo",
+        "endereco": "rua_do_galo",
+        "cep": 98123000,
+        "data_de_nascimento": 22022011,
+        "telefone": 53912748596
+    }
+    
+]
