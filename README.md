@@ -1,1 +1,1 @@
-Arquivi em formato Json para API.
+Arquivo em formato Json para API.
